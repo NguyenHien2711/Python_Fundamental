@@ -1,5 +1,5 @@
 # Python_Fundamental
-Wellcome to my repository!<p>
+Welcome to my repository !<p>
 I’m learning to code, interested in data analytics and data science, aiming to be hired by March of 2023<p>
 This repository have been created since July, 2022 with intention to practise and showcase my skillsets related to programming which combines Python Fundamental exercises and small projects done me while learning Python on various platforms and courses.<p>
 **The tools and knowledge to complete these tasks:** <br>
@@ -11,6 +11,7 @@ This repository have been created since July, 2022 with intention to practise an
   - Tkinter library 
   - Object-Oriented Programming
   - Program: Jupyter Notebook, Visual Studio Code<p>
+  
 **List of files and folders:**
   - [Dictionary](https://github.com/NguyenHien2711/Python_Fundamental/tree/main/Dictionary)
   - [For and while](https://github.com/NguyenHien2711/Python_Fundamental/tree/main/For%20and%20while)
@@ -19,7 +20,7 @@ This repository have been created since July, 2022 with intention to practise an
   - [Web Scraping](https://github.com/NguyenHien2711/Python_Fundamental/tree/main/Web%20Scraping) <p>
 
 Thank you for your time and consideration. Hope this repo would help you to assess my Python skills !<br>
-If you have any questions or comments, feel free contact to me, I appreciate all of your constructive, precious feedback to keep striving for the best.<p>
+If you have any questions or comments, feel free contact to me through contact information below, I appreciate all of your constructive, precious feedback to keep striving for the best.<p>
 ### Contact
 ***
 Feel free to contact me via: <br>
